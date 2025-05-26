@@ -4,7 +4,7 @@
 
 ## Features
 
-- One-step execution with `python3 TOTPin0.py`
+- One-step execution with `python3 TOTPino.py`
 - Automatically installs all required dependencies and libraries
 - Guides the user through the setup and usage process interactively
 - Detects and identifies connected Arduino boards (and their clones) by monitoring USB port changes
@@ -22,7 +22,7 @@
 To start, simply run:
 
 ```bash
-python3 TOTPin0.py
+python3 TOTPino.py
 ```
 
 The script will:
